@@ -1,5 +1,112 @@
 {
-  "updatedAt": null,
-  "summary": { "monitored": 0 },
-  "lowStock": []
+  "updatedAt": "2026-09-08T00:33:41.208Z",
+  "summary": {
+    "monitored": 97
+  },
+  "lowStock": [
+    {
+      "id": "354821008",
+      "sku": "CON-FORT-RJ45-CAT5E",
+      "product": "CON RJ45 MACHO CAT5E 201 FORTR (BLI/100)",
+      "stock": 0,
+      "minimum": 3,
+      "unit": "UN"
+    },
+    {
+      "id": "339745524",
+      "sku": "FON-FORTREK-400W",
+      "product": "Fonte De Alimentação Gamer Fortrek Black 80 Plus White Hawk Atx 400w Bivolt Preto",
+      "stock": 0,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "342091351",
+      "sku": "AFI-HARM-TH101",
+      "product": "Afinador Digital Cromático Clip Violão Ukulele Cavaquinho",
+      "stock": 1,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "352002822",
+      "sku": "GAB-VINIK-MURK-PRETO",
+      "product": "GABINETE GAMER VINIK MURK PRETO LATERAL ACRILICO - GGMACBK",
+      "stock": 0,
+      "minimum": 1,
+      "unit": "UN"
+    },
+    {
+      "id": "351317286",
+      "sku": "PIL-PANA-AA-6UN",
+      "product": "06 Pilhas Aa Alcalina Panasonic 1 Cartela",
+      "stock": 0,
+      "minimum": 0,
+      "unit": "UN"
+    },
+    {
+      "id": "350996309",
+      "sku": "PIL-PANA-AA-6UN-K2",
+      "product": "12 Pilhas Aa Alcalina Panasonic (2 Cartelas) Power Alkaline",
+      "stock": 0,
+      "minimum": 0,
+      "unit": "UN"
+    },
+    {
+      "id": "350996306",
+      "sku": "PIL-PANA-AA-6UN-K3",
+      "product": "18 Pilhas Aa Alcalina Panasonic (3 Cartelas) Power Alkaline",
+      "stock": 0,
+      "minimum": 0,
+      "unit": "UN"
+    },
+    {
+      "id": "350996307",
+      "sku": "PIL-PANA-AA-6UN-K4",
+      "product": "24 Pilhas Alcalinas Aa Panasonic (4 Cartelas) Power Alkaline",
+      "stock": 0,
+      "minimum": 0,
+      "unit": "UN"
+    },
+    {
+      "id": "350996308",
+      "sku": "PIL-PANA-AA-6UN-K5",
+      "product": "30 Pilhas Aa Alcalina Panasonic (5 Cartelas) Power Alkaline",
+      "stock": 0,
+      "minimum": 0,
+      "unit": "UN"
+    },
+    {
+      "id": "356004643",
+      "sku": "TON-AF10-CRT-AZUL",
+      "product": "AFINADOR CROMATICO DIGITAL AF10 AZUL",
+      "stock": 2,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "356004650",
+      "sku": "ALIC-AMP-DT2017-VINIK",
+      "product": "ALICATE AMPERIMETRO DIGITAL PROFISSIONAL - DT2017",
+      "stock": 2,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "355013507",
+      "sku": "SOM-PHIL-TAX400",
+      "product": "CX DE SOM BT PHILIPS TAX400B PT",
+      "stock": 0,
+      "minimum": 0,
+      "unit": "UN"
+    },
+    {
+      "id": "356004656",
+      "sku": "FITA-DEM-ZEB-48X30-VINIK",
+      "product": "FITA PARA DEMARCACAO DE SOLO ZEBRADA 48MM X 30M",
+      "stock": 2,
+      "minimum": 2,
+      "unit": "UN"
+    }
+  ]
 }
