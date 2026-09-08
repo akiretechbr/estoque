@@ -1,0 +1,38 @@
+name: Atualizar estoque Olist
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-estoque
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Consultar Olist ERP
+        env:
+          OLIST_API_TOKEN: ${{ secrets.OLIST_API_TOKEN }}
+        run: node scripts/update-stock.mjs
+      - name: Publicar dados atualizados
+        run: |
+          if git diff --quiet -- data/estoque.json; then
+            echo "Nenhuma alteração no estoque."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/estoque.json
+          git commit -m "Atualiza estoque Olist"
+          git push
