@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T11:15:20.472Z",
+  "updatedAt": "2026-09-11T11:15:15.910Z",
   "summary": {
     "monitored": 97
   },
@@ -10,6 +10,14 @@
       "product": "CON RJ45 MACHO CAT5E 201 FORTR (BLI/100)",
       "stock": 0,
       "minimum": 3,
+      "unit": "UN"
+    },
+    {
+      "id": "356004650",
+      "sku": "ALIC-AMP-DT2017-VINIK",
+      "product": "ALICATE AMPERIMETRO DIGITAL PROFISSIONAL - DT2017",
+      "stock": 0,
+      "minimum": 2,
       "unit": "UN"
     },
     {
@@ -85,12 +93,12 @@
       "unit": "UN"
     },
     {
-      "id": "356004650",
-      "sku": "ALIC-AMP-DT2017-VINIK",
-      "product": "ALICATE AMPERIMETRO DIGITAL PROFISSIONAL - DT2017",
-      "stock": 2,
-      "minimum": 2,
-      "unit": "UN"
+      "id": "376075446",
+      "sku": "BAT-PANASO-9V-5UN",
+      "product": "BAT 9V ALCALINA PANASONIC 6LF22XAB C/5 (CAR/5)",
+      "stock": 0,
+      "minimum": 0,
+      "unit": ""
     },
     {
       "id": "355013507",
