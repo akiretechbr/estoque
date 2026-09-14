@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T11:14:44.628Z",
+  "updatedAt": "2026-09-14T11:15:37.586Z",
   "summary": {
     "monitored": 97
   },
@@ -32,6 +32,14 @@
       "id": "342091351",
       "sku": "AFI-HARM-TH101",
       "product": "Afinador Digital Cromático Clip Violão Ukulele Cavaquinho",
+      "stock": 1,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "375511523",
+      "sku": "BAT-PANASO-9V-1UN",
+      "product": "BAT 9V ALCALINA PANASONIC 6LF22XAB C/1 (CAR/1)",
       "stock": 1,
       "minimum": 2,
       "unit": "UN"
@@ -90,6 +98,30 @@
       "product": "AFINADOR CROMATICO DIGITAL AF10 AZUL",
       "stock": 2,
       "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "376075447",
+      "sku": "BAT-PANASO-9V-2UN",
+      "product": "BAT 9V ALCALINA PANASONIC 6LF22XAB C/2 (CAR/2)",
+      "stock": 0,
+      "minimum": 0,
+      "unit": ""
+    },
+    {
+      "id": "376075444",
+      "sku": "BAT-PANASO-9V-3UN",
+      "product": "BAT 9V ALCALINA PANASONIC 6LF22XAB C/3 (CAR/3)",
+      "stock": 0,
+      "minimum": 0,
+      "unit": "UN"
+    },
+    {
+      "id": "376075445",
+      "sku": "BAT-PANASO-9V-4UN",
+      "product": "BAT 9V ALCALINA PANASONIC 6LF22XAB C/4 (CAR/4)",
+      "stock": 0,
+      "minimum": 0,
       "unit": "UN"
     },
     {
