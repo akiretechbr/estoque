@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T11:15:37.586Z",
+  "updatedAt": "2026-09-15T11:15:33.866Z",
   "summary": {
     "monitored": 97
   },
@@ -21,6 +21,14 @@
       "unit": "UN"
     },
     {
+      "id": "375511523",
+      "sku": "BAT-PANASO-9V-1UN",
+      "product": "BAT 9V ALCALINA PANASONIC 6LF22XAB C/1 (CAR/1)",
+      "stock": 0,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
       "id": "339745524",
       "sku": "FON-FORTREK-400W",
       "product": "Fonte De Alimentação Gamer Fortrek Black 80 Plus White Hawk Atx 400w Bivolt Preto",
@@ -32,14 +40,6 @@
       "id": "342091351",
       "sku": "AFI-HARM-TH101",
       "product": "Afinador Digital Cromático Clip Violão Ukulele Cavaquinho",
-      "stock": 1,
-      "minimum": 2,
-      "unit": "UN"
-    },
-    {
-      "id": "375511523",
-      "sku": "BAT-PANASO-9V-1UN",
-      "product": "BAT 9V ALCALINA PANASONIC 6LF22XAB C/1 (CAR/1)",
       "stock": 1,
       "minimum": 2,
       "unit": "UN"
