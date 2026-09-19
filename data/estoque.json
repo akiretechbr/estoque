@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T11:15:05.300Z",
+  "updatedAt": "2026-09-19T11:15:00.302Z",
   "summary": {
     "monitored": 98
   },
@@ -101,6 +101,14 @@
       "unit": "UN"
     },
     {
+      "id": "373395093",
+      "sku": "CAR-USB AA/AAA-TOSH-C/4AA",
+      "product": "CARREG PILHA USB AA/AAA TOSHIBA C/4AA",
+      "stock": 2,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
       "id": "355013507",
       "sku": "SOM-PHIL-TAX400",
       "product": "CX DE SOM BT PHILIPS TAX400B PT",
@@ -122,6 +130,14 @@
       "product": "SOUNDBAR GAMER FORTREK SONAR BR",
       "stock": 1,
       "minimum": 1,
+      "unit": "UN"
+    },
+    {
+      "id": "361365788",
+      "sku": "TEC-FORT-KB11",
+      "product": "TECLADO OFFICE FORTREK KB11 COMPACT",
+      "stock": 2,
+      "minimum": 2,
       "unit": "UN"
     }
   ]
