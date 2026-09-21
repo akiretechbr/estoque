@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T11:15:11.069Z",
+  "updatedAt": "2026-09-21T11:15:22.124Z",
   "summary": {
     "monitored": 98
   },
@@ -40,6 +40,14 @@
       "id": "352002822",
       "sku": "GAB-VINIK-MURK-PRETO",
       "product": "GABINETE GAMER VINIK MURK PRETO LATERAL ACRILICO - GGMACBK",
+      "stock": 0,
+      "minimum": 1,
+      "unit": "UN"
+    },
+    {
+      "id": "373395100",
+      "sku": "SOUNDBAR-GAM-FORT-1UN",
+      "product": "SOUNDBAR GAMER FORTREK SONAR BR",
       "stock": 0,
       "minimum": 1,
       "unit": "UN"
@@ -122,14 +130,6 @@
       "product": "FITA PARA DEMARCACAO DE SOLO ZEBRADA 48MM X 30M",
       "stock": 2,
       "minimum": 2,
-      "unit": "UN"
-    },
-    {
-      "id": "373395100",
-      "sku": "SOUNDBAR-GAM-FORT-1UN",
-      "product": "SOUNDBAR GAMER FORTREK SONAR BR",
-      "stock": 1,
-      "minimum": 1,
       "unit": "UN"
     },
     {
