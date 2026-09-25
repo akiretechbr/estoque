@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:15:18.087Z",
+  "updatedAt": "2026-09-25T11:15:17.704Z",
   "summary": {
     "monitored": 98
   },
@@ -144,6 +144,14 @@
       "id": "356004656",
       "sku": "FITA-DEM-ZEB-48X30-VINIK",
       "product": "FITA PARA DEMARCACAO DE SOLO ZEBRADA 48MM X 30M",
+      "stock": 2,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "372325941",
+      "sku": "FON-PHIL-TAT2500-1UN",
+      "product": "FONE BLUETOOTH PHILIPS TAT2500BK/00 PT",
       "stock": 2,
       "minimum": 2,
       "unit": "UN"
