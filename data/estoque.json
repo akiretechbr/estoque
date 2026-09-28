@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T11:15:27.521Z",
+  "updatedAt": "2026-09-28T11:17:02.261Z",
   "summary": {
     "monitored": 98
   },
@@ -25,6 +25,14 @@
       "sku": "FON-FORTREK-400W",
       "product": "Fonte De Alimentação Gamer Fortrek Black 80 Plus White Hawk Atx 400w Bivolt Preto",
       "stock": 0,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "356004639",
+      "sku": "TON-AF10-CRT-PRETO",
+      "product": "AFINADOR CROMATICO DIGITAL AF10 PRETO",
+      "stock": 1,
       "minimum": 2,
       "unit": "UN"
     },
@@ -104,14 +112,6 @@
       "id": "356004643",
       "sku": "TON-AF10-CRT-AZUL",
       "product": "AFINADOR CROMATICO DIGITAL AF10 AZUL",
-      "stock": 2,
-      "minimum": 2,
-      "unit": "UN"
-    },
-    {
-      "id": "356004639",
-      "sku": "TON-AF10-CRT-PRETO",
-      "product": "AFINADOR CROMATICO DIGITAL AF10 PRETO",
       "stock": 2,
       "minimum": 2,
       "unit": "UN"
