@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T17:55:07.454Z",
+  "updatedAt": "2026-10-09T17:34:54.573Z",
   "summary": {
     "monitored": 104
   },
@@ -16,6 +16,14 @@
       "id": "356004650",
       "sku": "ALIC-AMP-DT2017-VINIK",
       "product": "ALICATE AMPERIMETRO DIGITAL PROFISSIONAL - DT2017",
+      "stock": 0,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "375511527",
+      "sku": "BAT-ZINCO-TOSHI-9V-1UN",
+      "product": "BAT ZINCO 9V TOSHIBA 6F22KG C/1 (CAR/1)",
       "stock": 0,
       "minimum": 2,
       "unit": "UN"
