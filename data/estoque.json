@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:13:41.620Z",
+  "updatedAt": "2026-10-13T18:02:26.801Z",
   "summary": {
     "monitored": 104
   },
@@ -138,6 +138,14 @@
       "product": "FITA PARA DEMARCACAO DE SOLO ZEBRADA 48MM X 30M",
       "stock": 2,
       "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "341455916",
+      "sku": "MP-PCY-900X420-DRAGON",
+      "product": "Mouse Pad Gamer Dragon Extended 900 X 420mm Pcyes Pmd90x42 Colorido Dragon",
+      "stock": 0,
+      "minimum": 0,
       "unit": "UN"
     }
   ]
