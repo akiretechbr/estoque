@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T17:15:31.323Z",
+  "updatedAt": "2026-10-27T16:21:27.985Z",
   "summary": {
     "monitored": 104
   },
@@ -130,6 +130,14 @@
       "product": "CX DE SOM BT PHILIPS TAX400B PT",
       "stock": 0,
       "minimum": 0,
+      "unit": "UN"
+    },
+    {
+      "id": "356004653",
+      "sku": "FITA-DEM-AM-48X30-VINIK",
+      "product": "FITA PARA DEMARCACAO DE SOLO AMARELA 48MM X 30M",
+      "stock": 3,
+      "minimum": 3,
       "unit": "UN"
     },
     {
