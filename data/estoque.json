@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T16:21:27.985Z",
+  "updatedAt": "2026-10-28T17:08:46.614Z",
   "summary": {
     "monitored": 104
   },
@@ -8,6 +8,14 @@
       "id": "354821008",
       "sku": "CON-FORT-RJ45-CAT5E",
       "product": "CON RJ45 MACHO CAT5E 201 FORTR (BLI/100)",
+      "stock": 0,
+      "minimum": 3,
+      "unit": "UN"
+    },
+    {
+      "id": "356004653",
+      "sku": "FITA-DEM-AM-48X30-VINIK",
+      "product": "FITA PARA DEMARCACAO DE SOLO AMARELA 48MM X 30M",
       "stock": 0,
       "minimum": 3,
       "unit": "UN"
@@ -133,19 +141,19 @@
       "unit": "UN"
     },
     {
-      "id": "356004653",
-      "sku": "FITA-DEM-AM-48X30-VINIK",
-      "product": "FITA PARA DEMARCACAO DE SOLO AMARELA 48MM X 30M",
-      "stock": 3,
-      "minimum": 3,
-      "unit": "UN"
-    },
-    {
       "id": "356004656",
       "sku": "FITA-DEM-ZEB-48X30-VINIK",
       "product": "FITA PARA DEMARCACAO DE SOLO ZEBRADA 48MM X 30M",
       "stock": 2,
       "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "356595550",
+      "sku": "KIT-FITA-DEM-ZEBRADA-VINIK",
+      "product": "Kit Fita Demarcação de Solo (Amarela e Zebrada)",
+      "stock": 0,
+      "minimum": 0,
       "unit": "UN"
     },
     {
