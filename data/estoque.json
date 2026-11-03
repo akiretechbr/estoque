@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:48:47.551Z",
+  "updatedAt": "2026-11-03T18:27:19.233Z",
   "summary": {
     "monitored": 104
   },
@@ -45,6 +45,14 @@
       "unit": "UN"
     },
     {
+      "id": "361365788",
+      "sku": "TEC-FORT-KB11",
+      "product": "TECLADO OFFICE FORTREK KB11 COMPACT",
+      "stock": 0,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
       "id": "356004639",
       "sku": "TON-AF10-CRT-PRETO",
       "product": "AFINADOR CROMATICO DIGITAL AF10 PRETO",
@@ -66,14 +74,6 @@
       "product": "GABINETE GAMER VINIK MURK PRETO LATERAL ACRILICO - GGMACBK",
       "stock": 0,
       "minimum": 1,
-      "unit": "UN"
-    },
-    {
-      "id": "361365788",
-      "sku": "TEC-FORT-KB11",
-      "product": "TECLADO OFFICE FORTREK KB11 COMPACT",
-      "stock": 1,
-      "minimum": 2,
       "unit": "UN"
     },
     {
@@ -122,6 +122,14 @@
       "product": "AFINADOR CROMATICO DIGITAL AF10 AZUL",
       "stock": 2,
       "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "373395104",
+      "sku": "APOIO-PES-MASTIC-AP25",
+      "product": "APOIO DE PES MASTICMOL AP25 PT",
+      "stock": 1,
+      "minimum": 1,
       "unit": "UN"
     },
     {
