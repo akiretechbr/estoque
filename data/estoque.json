@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T18:27:19.233Z",
+  "updatedAt": "2026-11-04T18:35:07.782Z",
   "summary": {
     "monitored": 104
   },
@@ -64,6 +64,14 @@
       "id": "342091351",
       "sku": "AFI-HARM-TH101",
       "product": "Afinador Digital Cromático Clip Violão Ukulele Cavaquinho",
+      "stock": 1,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "339829919",
+      "sku": "FON-AERO-VX350-350W",
+      "product": "Fonte Atx Aerocool 350wts Reais C/cooler 12cm Vx-350 Preto",
       "stock": 1,
       "minimum": 2,
       "unit": "UN"
