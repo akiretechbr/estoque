@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T18:35:07.782Z",
+  "updatedAt": "2026-11-05T18:37:21.093Z",
   "summary": {
     "monitored": 104
   },
@@ -29,25 +29,9 @@
       "unit": "UN"
     },
     {
-      "id": "375511527",
-      "sku": "BAT-ZINCO-TOSHI-9V-1UN",
-      "product": "BAT ZINCO 9V TOSHIBA 6F22KG C/1 (CAR/1)",
-      "stock": 0,
-      "minimum": 2,
-      "unit": "UN"
-    },
-    {
       "id": "339745524",
       "sku": "FON-FORTREK-400W",
       "product": "Fonte De Alimentação Gamer Fortrek Black 80 Plus White Hawk Atx 400w Bivolt Preto",
-      "stock": 0,
-      "minimum": 2,
-      "unit": "UN"
-    },
-    {
-      "id": "361365788",
-      "sku": "TEC-FORT-KB11",
-      "product": "TECLADO OFFICE FORTREK KB11 COMPACT",
       "stock": 0,
       "minimum": 2,
       "unit": "UN"
