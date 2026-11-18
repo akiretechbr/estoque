@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T19:42:09.977Z",
+  "updatedAt": "2026-11-18T19:31:20.393Z",
   "summary": {
     "monitored": 113
   },
@@ -8,14 +8,6 @@
       "id": "354821008",
       "sku": "CON-FORT-RJ45-CAT5E",
       "product": "CON RJ45 MACHO CAT5E 201 FORTR (BLI/100)",
-      "stock": 0,
-      "minimum": 3,
-      "unit": "UN"
-    },
-    {
-      "id": "356004653",
-      "sku": "FITA-DEM-AM-48X30-VINIK",
-      "product": "FITA PARA DEMARCACAO DE SOLO AMARELA 48MM X 30M",
       "stock": 0,
       "minimum": 3,
       "unit": "UN"
@@ -37,6 +29,14 @@
       "unit": "UN"
     },
     {
+      "id": "356004656",
+      "sku": "FITA-DEM-ZEB-48X30-VINIK",
+      "product": "FITA PARA DEMARCACAO DE SOLO ZEBRADA 48MM X 30M",
+      "stock": 0,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
       "id": "339745524",
       "sku": "FON-FORTREK-400W",
       "product": "Fonte De Alimentação Gamer Fortrek Black 80 Plus White Hawk Atx 400w Bivolt Preto",
@@ -50,6 +50,14 @@
       "product": "Afinador Digital Cromático Clip Violão Ukulele Cavaquinho",
       "stock": 1,
       "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "356004653",
+      "sku": "FITA-DEM-AM-48X30-VINIK",
+      "product": "FITA PARA DEMARCACAO DE SOLO AMARELA 48MM X 30M",
+      "stock": 2,
+      "minimum": 3,
       "unit": "UN"
     },
     {
@@ -138,14 +146,6 @@
       "product": "CX DE SOM BT PHILIPS TAX400B PT",
       "stock": 0,
       "minimum": 0,
-      "unit": "UN"
-    },
-    {
-      "id": "356004656",
-      "sku": "FITA-DEM-ZEB-48X30-VINIK",
-      "product": "FITA PARA DEMARCACAO DE SOLO ZEBRADA 48MM X 30M",
-      "stock": 2,
-      "minimum": 2,
       "unit": "UN"
     },
     {
