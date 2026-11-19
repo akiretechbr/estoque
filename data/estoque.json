@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T19:31:20.393Z",
+  "updatedAt": "2026-11-19T19:35:14.190Z",
   "summary": {
     "monitored": 113
   },
@@ -50,6 +50,14 @@
       "product": "Afinador Digital Cromático Clip Violão Ukulele Cavaquinho",
       "stock": 1,
       "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "373395104",
+      "sku": "APOIO-PES-MASTIC-AP25",
+      "product": "APOIO DE PES MASTICMOL AP25 PT",
+      "stock": 0,
+      "minimum": 1,
       "unit": "UN"
     },
     {
@@ -122,14 +130,6 @@
       "product": "AFINADOR CROMATICO DIGITAL AF10 AZUL",
       "stock": 2,
       "minimum": 2,
-      "unit": "UN"
-    },
-    {
-      "id": "373395104",
-      "sku": "APOIO-PES-MASTIC-AP25",
-      "product": "APOIO DE PES MASTICMOL AP25 PT",
-      "stock": 1,
-      "minimum": 1,
       "unit": "UN"
     },
     {
