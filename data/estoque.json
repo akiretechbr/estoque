@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:35:12.619Z",
+  "updatedAt": "2026-11-26T20:06:22.652Z",
   "summary": {
     "monitored": 113
   },
@@ -41,6 +41,14 @@
       "sku": "FON-FORTREK-400W",
       "product": "Fonte De Alimentação Gamer Fortrek Black 80 Plus White Hawk Atx 400w Bivolt Preto",
       "stock": 0,
+      "minimum": 2,
+      "unit": "UN"
+    },
+    {
+      "id": "356004643",
+      "sku": "TON-AF10-CRT-AZUL",
+      "product": "AFINADOR CROMATICO DIGITAL AF10 AZUL",
+      "stock": 1,
       "minimum": 2,
       "unit": "UN"
     },
@@ -122,14 +130,6 @@
       "product": "30 Pilhas Aa Alcalina Panasonic (5 Cartelas) Power Alkaline",
       "stock": 0,
       "minimum": 0,
-      "unit": "UN"
-    },
-    {
-      "id": "356004643",
-      "sku": "TON-AF10-CRT-AZUL",
-      "product": "AFINADOR CROMATICO DIGITAL AF10 AZUL",
-      "stock": 2,
-      "minimum": 2,
       "unit": "UN"
     },
     {
